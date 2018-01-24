@@ -59,7 +59,8 @@ body {
     min-height: 300px;
 }
 
-.btn lable + input[type="radio"]:checked
-{
-    background-color: green;
+#carouselButtons {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
 }
